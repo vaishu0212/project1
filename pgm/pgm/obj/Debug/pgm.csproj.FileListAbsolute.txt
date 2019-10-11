@@ -1,0 +1,17 @@
+E:\Vaishu pgm\pgm\pgm\bin\Debug\pgm.exe.config
+E:\Vaishu pgm\pgm\pgm\bin\Debug\pgm.exe
+E:\Vaishu pgm\pgm\pgm\bin\Debug\pgm.pdb
+E:\Vaishu pgm\pgm\pgm\obj\Debug\pgm.csprojAssemblyReference.cache
+E:\Vaishu pgm\pgm\pgm\obj\Debug\pgm.Properties.Resources.resources
+E:\Vaishu pgm\pgm\pgm\obj\Debug\pgm.csproj.GenerateResource.cache
+E:\Vaishu pgm\pgm\pgm\obj\Debug\pgm.csproj.CoreCompileInputs.cache
+E:\Vaishu pgm\pgm\pgm\obj\Debug\pgm.exe
+E:\Vaishu pgm\pgm\pgm\obj\Debug\pgm.pdb
+E:\Vaishu pgm\pgm\pgm\obj\Debug\pgm.EditPage.resources
+E:\Vaishu pgm\pgm\pgm\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\Vaishu pgm\pgm\pgm\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Vaishu pgm\pgm\pgm\obj\Debug\Interop.VBIDE.dll
+E:\Vaishu pgm\pgm\pgm\obj\Debug\pgm.csproj.ResolveComReference.cache
+E:\Vaishu pgm\pgm\pgm\obj\Debug\pgm.HomePage.resources
+E:\Vaishu pgm\pgm\pgm\obj\Debug\pgm.InsertPage.resources
+E:\Vaishu pgm\pgm\pgm\obj\Debug\pgm.ReportPage.resources
